@@ -8,3 +8,4 @@ newLine
 newLine2
 add
 小红提交了一次数据
+小明添加了一条数据
