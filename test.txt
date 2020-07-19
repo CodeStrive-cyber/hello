@@ -7,3 +7,4 @@ brach操作
 newLine
 newLine2
 add
+小明添加了一条数据
